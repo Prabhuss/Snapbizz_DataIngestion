@@ -1,0 +1,15 @@
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\productsdailydownloadwebjob.exe.config
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\productsdailydownloadwebjob.exe
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\productsdailydownloadwebjob.pdb
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\obj\Debug\productsdailydownloadwebjob.csproj.CoreCompileInputs.cache
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\obj\Debug\productsdailydownloadwebjob.csproj.CopyComplete
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\obj\Debug\productsdailydownloadwebjob.exe
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\obj\Debug\productsdailydownloadwebjob.pdb
+C:\Users\anjumvm\source\repos\productsdailydownloadwebjob\obj\Debug\productsdailydownloadwebjob.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\fresh.exe.config
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\fresh.exe
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\fresh.pdb
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\obj\Debug\purchaseDownloadNIngestion.csprojAssemblyReference.cache
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\obj\Debug\purchaseDownloadNIngestion.csproj.CoreCompileInputs.cache
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\obj\Debug\purchaseDownloadNIngestion.csproj.CopyComplete
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\obj\Debug\fresh.exe
+C:\Users\anjumvm\Desktop\PurchaseDownloadNIngestion\fresh\obj\Debug\fresh.pdb

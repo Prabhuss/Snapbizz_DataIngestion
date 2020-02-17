@@ -1,0 +1,84 @@
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\fresh.exe.config
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\fresh.exe
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\fresh.pdb
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Shabnam\source\repos\fresh\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shabnam\source\repos\fresh\fresh\obj\Debug\fresh.csprojAssemblyReference.cache
+C:\Users\Shabnam\source\repos\fresh\fresh\obj\Debug\fresh.csproj.CoreCompileInputs.cache
+C:\Users\Shabnam\source\repos\fresh\fresh\obj\Debug\fresh.csproj.CopyComplete
+C:\Users\Shabnam\source\repos\fresh\fresh\obj\Debug\fresh.exe
+C:\Users\Shabnam\source\repos\fresh\fresh\obj\Debug\fresh.pdb
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\fresh.exe.config
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\fresh.exe
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\fresh.pdb
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pyintern\Documents\fresh\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pyintern\Documents\fresh\fresh\obj\Debug\fresh.csprojAssemblyReference.cache
+C:\Users\pyintern\Documents\fresh\fresh\obj\Debug\fresh.csproj.CoreCompileInputs.cache
+C:\Users\pyintern\Documents\fresh\fresh\obj\Debug\fresh.csproj.CopyComplete
+C:\Users\pyintern\Documents\fresh\fresh\obj\Debug\fresh.exe
+C:\Users\pyintern\Documents\fresh\fresh\obj\Debug\fresh.pdb
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\fresh.exe.config
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\fresh.exe
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\fresh.pdb
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\obj\Debug\fresh.csprojResolveAssemblyReference.cache
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\obj\Debug\fresh.csproj.CoreCompileInputs.cache
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\obj\Debug\fresh.exe
+C:\Users\kirti\Desktop\RaviData\fresh\fresh - Copy\fresh\obj\Debug\fresh.pdb
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\fresh.exe.config
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\fresh.exe
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\fresh.pdb
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pranav\Desktop\fresh\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pranav\Desktop\fresh\fresh\obj\Debug\fresh.csprojAssemblyReference.cache
+C:\Users\pranav\Desktop\fresh\fresh\obj\Debug\fresh.csproj.CoreCompileInputs.cache
+C:\Users\pranav\Desktop\fresh\fresh\obj\Debug\fresh.csproj.CopyComplete
+C:\Users\pranav\Desktop\fresh\fresh\obj\Debug\fresh.exe
+C:\Users\pranav\Desktop\fresh\fresh\obj\Debug\fresh.pdb
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\fresh.exe.config
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\fresh.exe
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\fresh.pdb
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\obj\Debug\fresh.csproj.CoreCompileInputs.cache
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\obj\Debug\fresh.csproj.CopyComplete
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\obj\Debug\fresh.exe
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\obj\Debug\fresh.pdb
+C:\Users\pranav\Documents\snapbizz_code\move\fresh\fresh\obj\Debug\fresh.csprojAssemblyReference.cache
