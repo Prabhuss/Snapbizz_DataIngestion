@@ -27,3 +27,18 @@ C:\Users\anjumvm\Desktop\web jobs daily\CustomerDailyDownloadWebJob\obj\Debug\Cu
 C:\Users\anjumvm\Desktop\web jobs daily\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.csproj.CopyComplete
 C:\Users\anjumvm\Desktop\web jobs daily\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.exe
 C:\Users\anjumvm\Desktop\web jobs daily\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.pdb
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\CustomerDailyDownloadWebJob.exe.config
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\CustomerDailyDownloadWebJob.exe
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\CustomerDailyDownloadWebJob.pdb
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.csprojAssemblyReference.cache
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.csproj.CoreCompileInputs.cache
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.csproj.CopyComplete
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.exe
+C:\Users\anjumvm\Desktop\Snapbizz_DataIngestion\CustomerDailyDownloadWebJob\obj\Debug\CustomerDailyDownloadWebJob.pdb

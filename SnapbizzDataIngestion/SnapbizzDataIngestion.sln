@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapbizzDataIngestion", "SnapbizzDataIngestion.csproj", "{715ADC9D-E21A-4ECE-AAED-3E6949F39971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715ADC9D-E21A-4ECE-AAED-3E6949F39971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715ADC9D-E21A-4ECE-AAED-3E6949F39971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715ADC9D-E21A-4ECE-AAED-3E6949F39971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715ADC9D-E21A-4ECE-AAED-3E6949F39971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CB34D3-9C2A-42D6-B989-65FA8BFB863C}
+	EndGlobalSection
+EndGlobal

@@ -24,14 +24,7 @@ namespace sasAzureblob
         static void doJob()
         {
 
-
-
-            string downlloadDirPath = ConfigurationManager.AppSettings["downlloadDirPath"];
-            string blobDirPath = downlloadDirPath;
-
-
-
-            /* for daily update of record please make  startDateFromToday = 841 and  endDateFromToday = 1 */
+          /* for daily update of record please make  startDateFromToday = 841 and  endDateFromToday = 1 */
 
             string startDateFromToday = ConfigurationManager.AppSettings["startDateFromToday"];
             int startNoOfDayFromToday = Int32.Parse(startDateFromToday);
@@ -91,6 +84,7 @@ namespace sasAzureblob
                     CloudBlockBlob blob = new CloudBlockBlob(new Uri(sasUri));
                     try
                     {
+                        
                         if (blob.Exists())
                         {
                             Console.WriteLine(" great blob exists");
