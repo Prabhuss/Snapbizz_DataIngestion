@@ -77,8 +77,13 @@ namespace sasAzureblob
 
                     string sasUri = "https://snapbizzanalyitcsdata.blob.core.windows.net/docdbdumo/" +
                    invoicePath + "/" + blobPath +
-              "?sv=2018-03-28&ss=b&srt=sco&sp=rl&se=2020-03-29T16:18:36Z&" +
-              "st=2019-03-29T08:18:36Z&spr=https&sig=xkGwps%2F4gOEa%2BCuu4Vfmmuz440ACb75gp0j8Hyk90wY%3D";
+              "?sv = 2019 - 02 - 02 & ss = b & srt = sco & sp = rl & se = 2020 - 06 - 28T18: 29:57Z &" +
+              "st = 2020 - 03 - 28T12: 29:57Z & spr = https & sig = VksDOTUJhLKZgX3fTD2kpFnjm % 2BBQeuErtTSuhkbA % 2Bl8 % 3D";
+
+
+
+
+
 
 
                     CloudBlockBlob blob = new CloudBlockBlob(new Uri(sasUri));

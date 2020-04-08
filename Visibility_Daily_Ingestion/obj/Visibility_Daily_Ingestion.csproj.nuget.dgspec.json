@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anjumvm\\Desktop\\Snapbizz_DataIngestion\\Visibility_Daily_Ingestion\\Visibility_Daily_Ingestion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anjumvm\\Desktop\\Snapbizz_DataIngestion\\Visibility_Daily_Ingestion\\Visibility_Daily_Ingestion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anjumvm\\Desktop\\Snapbizz_DataIngestion\\Visibility_Daily_Ingestion\\Visibility_Daily_Ingestion.csproj",
+        "projectName": "Visibility_Daily_Ingestion",
+        "projectPath": "C:\\Users\\anjumvm\\Desktop\\Snapbizz_DataIngestion\\Visibility_Daily_Ingestion\\Visibility_Daily_Ingestion.csproj",
+        "packagesPath": "C:\\Users\\anjumvm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anjumvm\\Desktop\\Snapbizz_DataIngestion\\Visibility_Daily_Ingestion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anjumvm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.Azure.KeyVault.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Azure.WebJobs": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Data.Edm": {
+              "target": "Package",
+              "version": "[5.8.3, )"
+            },
+            "Microsoft.Data.OData": {
+              "target": "Package",
+              "version": "[5.8.3, )"
+            },
+            "Microsoft.Data.Services.Client": {
+              "target": "Package",
+              "version": "[5.8.3, )"
+            },
+            "Microsoft.WindowsAzure.ConfigurationManager": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "System.Spatial": {
+              "target": "Package",
+              "version": "[5.8.3, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

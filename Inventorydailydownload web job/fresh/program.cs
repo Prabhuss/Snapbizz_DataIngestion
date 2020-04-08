@@ -8,11 +8,6 @@ namespace sasAzureblob
         {
             dailydownload process = new dailydownload();
             process.Run();
-           
-
-           
-
-            //Console.ReadLine();
         }
     }
 }
